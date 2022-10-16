@@ -1,23 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-  background-color: lightblue;
-}
+/* Place your CSS styles in this file */
 
 h1 {
-  color: white;
-  text-align: center;
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
 }
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
-</style>
-</head>
-<body>
-
-</body>
-</html>
